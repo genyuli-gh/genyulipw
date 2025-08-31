@@ -1,0 +1,33 @@
+.navigator {
+    margin: 10px; 
+    display: inline-block;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+li{
+    list-style-type: none;
+}
+
+body{
+    background: #000000f2;
+    color: white;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a:link {
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
